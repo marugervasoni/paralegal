@@ -2,7 +2,7 @@
 
 Proyecto personal y puesta en practica de conocimientos en backend y práctica de React. (En proceso)
 
-##Tabla de Contenido
+## Tabla de Contenido
 1. Información general
 2. Tecnologías
 
@@ -14,7 +14,7 @@ El back-end está realizado en lenguaje de programación Java pero sin testeos m
 
 El Front-end se encuentra apenas iniciado. Se espera continuar y se irá realizando en React.
 
-![DER](image.png)
+![DER](DER.png)
 
 ### Tecnologías
 
