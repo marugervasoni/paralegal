@@ -1,0 +1,15 @@
+.guide {
+    padding: 1rem 6rem;
+    text-align: center;
+}
+
+article {
+    padding: 1rem 2rem;
+    margin: 1rem;
+    border: 2px var(--gris-clarito) solid;
+    border-radius: 5px;
+}
+
+p {
+    text-align: justify;
+}

@@ -1,0 +1,15 @@
+.maincontent {
+    background-image: url(/img/papers.jpg); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+   
+    padding: 4rem;
+    height: 10rem;
+    text-align: center;
+}
+
+h1 {
+    font-size:xx-large;
+}
+

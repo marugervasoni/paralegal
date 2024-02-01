@@ -1,0 +1,23 @@
+.menu {
+    background-color: var(--gris-clarito);
+    color: var(--gris-topo);
+    padding: 0.5rem 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.contenido {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contenido a {
+    color: var(--gris-topo);
+    text-decoration: none;
+}
+
+.menu h4:hover, .contenido a:hover {
+    color: var(--naranja);
+}

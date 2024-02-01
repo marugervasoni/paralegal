@@ -1,0 +1,15 @@
+.contacto {
+    background-image: url(/img/building-b-n.jpg); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    padding: 14.2rem;
+}
+
+.contacto h5 a{
+    color: var(--white);
+}
+
+.contacto h5 a:hover{
+    color: var(--naranja);
+}
