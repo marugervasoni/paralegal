@@ -3,13 +3,24 @@
     text-align: center;
 }
 
-article {
+.guide article {
     padding: 1rem 2rem;
     margin: 1rem;
     border: 2px var(--gris-clarito) solid;
     border-radius: 5px;
 }
 
-p {
+.guide h3 {
+    color: var(--verde-muzgo);
+    font-style: italic;
+    /* font-variant: small-caps; */
+    /* color: var(--gris); */
+    /* color: var(--gris-clarito); */
+    /* color: var(--naranja); */
+    /* color: var(--rojo-bordo); */
+    /* color: var(--salmon); */
+}
+
+.guide p {
     text-align: justify;
 }

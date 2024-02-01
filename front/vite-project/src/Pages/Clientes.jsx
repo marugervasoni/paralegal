@@ -2,7 +2,12 @@ import React from 'react'
 
 const Clientes = () => {
   return (
-    <div>Clientes</div>
+    <>
+      <h1>Clientes</h1>
+      <img width='300px' src="/img/ramas.jpg" alt="ramas" />
+      <button>Nuevo cliente</button>
+      <h3> Mis Clientes </h3>
+    </>
   )
 }
 
