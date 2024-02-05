@@ -1,0 +1,11 @@
+.clientes {
+    background-image: url(/img/ramas.jpg); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+
+    text-align: center;
+    padding: 15rem 5rem;
+}
+
+/* import styles from '../Styles/Clientes.module.css' */

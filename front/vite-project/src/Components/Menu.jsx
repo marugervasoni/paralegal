@@ -1,15 +1,12 @@
 import React from 'react'
-import { Link, useNavigate, Outlet } from 'react-router-dom'
+import { Link, Outlet } from 'react-router-dom'
 import {routes} from '../routes'
 import styles from '../Styles/Menu.module.css'
 
 const Menu = () => {
 
-    const navigate = useNavigate()
-
     return (
     <div className={styles.menu}>
-        <h4 onClick={() => navigate(-1)}>⬅Back</h4>
         <section className={styles.contenido}>
           <Link to={routes.home}> Inicio </Link>
           <Link to={routes.clientes}> Clientes </Link>
